@@ -32,7 +32,7 @@
     name: 'app',
     data()  { 
       return {
-        api_key: '3356b2302f96ed6b760075fa29fbfc7b',
+        api_key: 'YOUROWNAPIKEY',
         url_base: 'https://api.openweathermap.org/data/2.5/',
         query:  '', 
         weather: {}
